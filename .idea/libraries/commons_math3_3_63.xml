@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="commons-math3-3.63">
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$/libs/commons-math3-3.6.1" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/commons-math3-3.6.1" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/libs/commons-math3-3.6.1" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/libs/commons-math3-3.6.1" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/libs/commons-math3-3.6.1" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/libs/commons-math3-3.6.1" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/commons-math3-3.6.1" recursive="false" type="SOURCES" />
+  </library>
+</component>

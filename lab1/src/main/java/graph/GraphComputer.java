@@ -65,14 +65,14 @@ public class GraphComputer {
         srcNode.setAttribute("color", Colors.RED);
         //Color all the neighbors with BLUE color (putting into set V)
         srcNode.getNeighborNodeIterator().forEachRemaining(node -> {
-            node.addAttribute("color",);
+            node.addAttribute("color",Colors.BLUE);
             node.getNeighborNodeIterator().forEachRemaining(innerNode -> {
                 if (!node.equals(innerNode)) {//ignoring prev node
 
                 }
             });
         });
-        return true;
+        return false;
     }
 
 

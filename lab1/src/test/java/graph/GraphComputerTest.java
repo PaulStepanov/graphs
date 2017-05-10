@@ -61,6 +61,11 @@ public class GraphComputerTest {
 
         System.out.println("Peripheral center:");
         System.out.println(graphComputer.findPeripheralCenter(graph));
+
+        System.out.println("isBipartite:");
+        System.out.println(graphComputer.isBipartite(graph));
+
+
     }
 
 
